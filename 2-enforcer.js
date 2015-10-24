@@ -1,7 +1,7 @@
 //2013 © Rotesource, Inc. http://rotesource.com/bigcommerce-agegate (Goke Pelemo - http://goke.me)
  function ageCheck() { 
 //Minimum age allowed
-     var min_age = 19;
+     var min_age = 18;
 //Minimum age allowed - END
      var year = parseInt(document.getElementById('byear').value);
      var month = parseInt(document.getElementById('bmonth').value);
@@ -11,7 +11,7 @@
      
      if ((today.getTime() - theirDate.getTime()) < 0) {
 //Page underage visitors will be redirected to
-        window.location = 'http://imgflip.com/i/4nmp0';
+        window.location = 'http://www.google.com';
 //Page underage visitors will be redirected to - END
      } else {
          var days = 4; //Number of days before age validation expires on the computer used

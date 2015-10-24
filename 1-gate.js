@@ -21,7 +21,7 @@ if (goke == null || goke=='') {
 	document.write("<div id=\"AgeGate\" class=\"pure-form\" style=\"position:absolute; top: 5px; left: 0px; z-index: 3000; ");
     document.write("                height: 5000px; width: 100%; background-color:rgba(255, 255, 255, 0.98);text-align:center;\">");
 //The Logo Image TIP: Its way cooler to use one with a transparent background.
-	document.write("    <img src=\"http://img.rotesource.com/700x300.png\"\/> <br\/><br\/>");
+	document.write("    <img src=\"/content/Vapour_Lounge_Logo.png"\/> <br\/><br\/>");
 //The Logo Image - END
     document.write("    <h3 style=\"text-align:center;width:500px;margin:0 auto;\">WARNING!!! THIS SITE IS 18+: THIS SITE CONTAINS MATERIAL OF AN ADULT NATURE AND BY PROCEEDING YOU HAVE ACKNOWLEDGED YOUR DESIRE TO VIEW SUCH CONTENT AND VERIFY THAT YOU ARE OF LEGAL AGE TO DO SO.<\/h3>");
 //The Disclaimer
